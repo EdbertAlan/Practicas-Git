@@ -1,0 +1,10 @@
+.Negrita {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+main#Principal {
+    width: 600px;
+    background-color: green;
+    margin: 0 auto;
+}
