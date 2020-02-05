@@ -2,7 +2,8 @@
 ## Unidad regional Guasave
 ### Desarrollo Web I
 
-**Profesor: Bidkar Aragón Cárdenas<br>**
+**Profesor: Bidkar Aragón Cárdenas**
+#
 **Alumno: Edbert Alan Bajo Ruiz Matricula: 18030022**
 
 
